@@ -1,25 +1,18 @@
 # Sudoku
 Object-based implementation of classic sudoku game
 
-/**********************************************************************
- *  Instructions for how to run your program
- **********************************************************************/
+/** Instructions for how to run your program **/
  
 Open the playSudoku class, and run using a starter sudoku file.
 To input a value, you click on the square you are trying 
 to change and then type the value you want to input. Any error messages and 
 illegalArgumentExceptions will be shown in the terminal.
 
-
-/**********************************************************************
- *  Any additional features                     
- **********************************************************************/
+/** Any additional features **/                
  
 Space button - will clear all user-inputted values
 
-/**********************************************************************
- *  A brief description of each file and its purpose                                          
- **********************************************************************/
+/** A brief description of each file and its purpose **/                                
  
  sudokuExample.txt - starter file for the sudoku table
  playSudoku.java -  class used to run the game, handle all mouse clicks and user
